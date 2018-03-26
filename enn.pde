@@ -79,7 +79,7 @@ void DrawCircle5(float x, float y, float r) {
 }
 
 void DrawCircle6(float x, float y, float r) {
-  int N = 700;
+  int N = 1000;
   float[] angle = new float[N] ;
   float[] _x = new float[N] ;
   float[] _y = new float[N] ;
